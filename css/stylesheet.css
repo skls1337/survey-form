@@ -1,0 +1,39 @@
+.form-group {
+    position:relative;
+    margin-bottom: 1rem;
+}
+
+
+
+ .form-control {
+    background-color: white;
+    border:none;
+    border-bottom: 2px solid #e8ebed;
+    border-radius: 0;
+    box-shadow: none;
+    color:#999;
+    height: 44px;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 6px 12px 0px 0;
+    
+ }
+
+ .buffer {
+     padding-left:20px;
+     padding-right: 20px;
+     margin-left: 5px;
+ }
+
+ label {
+     padding-top:12px;
+     padding-right: 15px;
+ }
+ h1{
+     font-size: 25px;
+     font-weight: bold;
+     text-align: center;
+ }
+ p{
+     text-align: center;
+ }
